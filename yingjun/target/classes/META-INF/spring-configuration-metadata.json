@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.db1",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.yingjun.yingjun.zhuyingjun.dataSourceConfig.DataSourceConfig",
+      "sourceMethod": "dataSource1()"
+    },
+    {
+      "name": "spring.datasource.db2",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.yingjun.yingjun.zhuyingjun.dataSourceConfig.DataSourceConfig",
+      "sourceMethod": "dataSource2()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
